@@ -1,2 +1,2 @@
 # Hackatruck
-Repositório destinado aos projetos efetuados durante o Curso de Praticas de Cloud Services usando Swift com ênfase em Serviços Cognitivos
+Repositório destinado aos projetos efetuados durante o curso de praticas de cloud services usando Swift com ênfase em serviços cognitivos
